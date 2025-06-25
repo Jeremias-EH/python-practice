@@ -1,5 +1,5 @@
 """
-Reemplazare un caracter de una cadena
+Reemplazare un caracter de una cadena, la "O" sera reemplazada por una "X"
 """
 
 string = "python"
