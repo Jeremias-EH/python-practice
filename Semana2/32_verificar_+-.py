@@ -10,4 +10,4 @@ if num1 > 0:
 elif num1 < 0:
     print("Es negativo")
 elif num1 == 0:
-  print("Es cero")
+  print("Es cero") 
