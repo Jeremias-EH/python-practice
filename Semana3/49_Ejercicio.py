@@ -14,4 +14,6 @@ while True:
            print("SALIO: CRUZ")
     if jugar.lower() == "n":
        break
+    if jugar.lower() != "n" and jugar.lower() != "s":
+          print("Elige 's' o 'n'!!!")
 print("Gracias por jugar!")
