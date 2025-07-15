@@ -12,5 +12,5 @@ while True:
     num1 = int(input("Adivina el numero...: "))
     intentos = intentos + 1
     if num1 == num_random:
-        print(f"Eres genial, adivinaste. Esto te tomo: " , intentos , " Intentos hasta que acertaste!")
+        print(f"Eres genial, adivinaste! Esto te tomo: " , intentos , " Intentos hasta que acertaste!")
         break
